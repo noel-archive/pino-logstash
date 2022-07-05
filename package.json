@@ -1,7 +1,7 @@
 {
   "name": "@noelware/pino-logstash",
   "description": "🌲 Pino transport to log data into Logstash via HTTP, TCP, or UDP.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "Noel <cutie@floofy.dev>, Noelware Team <team@noelware.org>",
