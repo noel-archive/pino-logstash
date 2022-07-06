@@ -25,6 +25,7 @@ export type { LogstashHttpTransportOptions } from './http';
 export type { LogstashTcpTransportOptions } from './tcp';
 export type { LogstashUdpTransportOptions } from './udp';
 
+export * as utils from './utils';
 export * from './http';
 export * from './tcp';
 export * from './udp';
