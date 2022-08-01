@@ -102,7 +102,7 @@ __metadata:
   dependencies:
     "@augu/eslint-config": 2.2.0
     "@augu/tsconfig": 1.1.1
-    "@noelware/utils": 2.1.0
+    "@noelware/utils": 2.2.0
     "@types/node": 18.0.1
     "@typescript-eslint/eslint-plugin": 5.31.0
     "@typescript-eslint/parser": 5.31.0
@@ -116,10 +116,10 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@noelware/utils@npm:2.1.0":
-  version: 2.1.0
-  resolution: "@noelware/utils@npm:2.1.0"
-  checksum: 8bba00d817696c7cee74891fe3aa77b576f552737fc26d5f5bb35bf7f49759b084c598aa6ae454b866459284e5b54e1e59153452b4f38879becd8d513c9d8e6e
+"@noelware/utils@npm:2.2.0":
+  version: 2.2.0
+  resolution: "@noelware/utils@npm:2.2.0"
+  checksum: 3270eae7a59c288f616e94f79eccab2f018ce3db35fa3a1c3ae6be1cef5321727e5a0b42ffcbb781fb5bf79a2d3c0887094e0816f1c420feba29e18e70c7b36a
   languageName: node
   linkType: hard
 

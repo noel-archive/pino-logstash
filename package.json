@@ -26,7 +26,7 @@
     "fmt": "prettier --write ./.prettierrc.json src/**/*.ts"
   },
   "dependencies": {
-    "@noelware/utils": "2.1.0"
+    "@noelware/utils": "2.2.0"
   },
   "devDependencies": {
     "@augu/eslint-config": "2.2.0",
