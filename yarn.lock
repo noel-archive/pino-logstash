@@ -119,7 +119,7 @@ __metadata:
     tsup: 6.2.1
     typescript: 4.7.4
   peerDependencies:
-    pino: 8.3.1
+    pino: 8.4.0
   languageName: unknown
   linkType: soft
 
