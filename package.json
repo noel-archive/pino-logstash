@@ -29,7 +29,7 @@
     "@noelware/utils": "2.2.0"
   },
   "devDependencies": {
-    "@augu/eslint-config": "2.2.0",
+    "@augu/eslint-config": "3.0.0",
     "@augu/tsconfig": "1.1.1",
     "@types/node": "18.0.1",
     "@typescript-eslint/eslint-plugin": "5.36.1",
