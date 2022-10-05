@@ -9,7 +9,7 @@
   "repository": "https://github.com/Noelware/pino-logstash",
   "bugs": "https://github.com/Noelware/pino-logstash/issues",
   "homepage": "https://docs.noelware.org/libraries/@noelware/pino-logstash",
-  "packageManager": "yarn@3.2.3",
+  "packageManager": "yarn@3.2.4",
   "files": [
     "dist/"
   ],
